@@ -1,0 +1,8 @@
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\bin\Debug\C# lab day 04 Q 2.exe.config
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\bin\Debug\C# lab day 04 Q 2.exe
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\bin\Debug\C# lab day 04 Q 2.pdb
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\obj\Debug\C# lab day 04 Q 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\obj\Debug\C# lab day 04 Q 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\obj\Debug\C# lab day 04 Q 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\obj\Debug\C# lab day 04 Q 2.exe
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab tutorial day 04\C# lab day 04 Q 2\C# lab day 04 Q 2\obj\Debug\C# lab day 04 Q 2.pdb
