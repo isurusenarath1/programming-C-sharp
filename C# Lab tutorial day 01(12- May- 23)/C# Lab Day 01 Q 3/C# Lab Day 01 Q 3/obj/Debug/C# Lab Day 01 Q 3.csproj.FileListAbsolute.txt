@@ -1,0 +1,8 @@
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\bin\Debug\C# Lab Day 01 Q 3.exe.config
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\bin\Debug\C# Lab Day 01 Q 3.exe
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\bin\Debug\C# Lab Day 01 Q 3.pdb
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\obj\Debug\C# Lab Day 01 Q 3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\obj\Debug\C# Lab Day 01 Q 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\obj\Debug\C# Lab Day 01 Q 3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\obj\Debug\C# Lab Day 01 Q 3.exe
+C:\Users\ASUS\OneDrive - NSBM\1st year 2nd semester\Tutorial\C# TU\C# Lab Day 01 Q 3\C# Lab Day 01 Q 3\obj\Debug\C# Lab Day 01 Q 3.pdb
